@@ -1,0 +1,17 @@
+ai-virtual-tryon-assessment/
+│
+├── ui/                 👈 FRONTEND (Streamlit)
+│   └── app.py
+│
+├── src/                👈 BACKEND
+│   ├── tryon/
+│   ├── measurement/
+│   ├── recommendation/
+│
+├── notebooks/          👈 DEMO
+├── data/
+├── outputs/
+│
+├── main.py             👈 optional CLI runner
+├── requirements.txt
+└── README.md

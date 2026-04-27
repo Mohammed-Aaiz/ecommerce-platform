@@ -1,56 +1,51 @@
 product_id,name,community,category,price,rating,tags
-P001,Embroidered Abaya,Muslim,Ethnic Wear,1299,4.7,abaya,modest,full-length,embroidered,women
-P002,Hijab Chiffon Dupatta,Muslim,Accessories,399,4.5,hijab,scarf,modest,women,chiffon
-P003,Tasbeeh Prayer Beads,Muslim,Religious,299,4.8,tasbeeh,prayer,beads,religious,unisex
-P004,Miswak Pack of 3,Muslim,Health,199,4.6,miswak,natural,hygiene,health,unisex
-P005,Halal Perfume Oud,Muslim,Beauty,899,4.7,perfume,oud,halal,fragrance,unisex
-P006,Ramadan Lantern Set,Muslim,Home Decor,599,4.4,ramadan,lantern,decor,festive,home
-P007,Islamic Calligraphy Frame,Muslim,Home Decor,799,4.6,calligraphy,frame,islamic,decor,home
-P008,Men's Kurta Pajama White,Muslim,Ethnic Wear,999,4.5,kurta,pajama,men,ethnic,white
-P009,Attar Musk Roll-On,Muslim,Beauty,349,4.7,attar,musk,fragrance,halal,unisex
-P010,Eid Gift Hamper,Muslim,Gifting,1499,4.8,eid,gift,hamper,festive,unisex
-P011,Quran with Urdu Translation,Muslim,Religious,699,4.9,quran,religious,book,unisex
-P012,Prayer Mat Velvet,Muslim,Religious,499,4.6,prayer,mat,velvet,religious,unisex
-P013,Sharara Set Embroidered,Muslim,Ethnic Wear,1899,4.5,sharara,ethnic,embroidered,women,festive
-P014,Men's Pathani Suit,Muslim,Ethnic Wear,1299,4.4,pathani,ethnic,men,kurta
-P015,Halal Skincare Kit,Muslim,Beauty,1199,4.6,skincare,halal,beauty,women,kit
-P016,Kanjivaram Silk Saree,Hindu,Ethnic Wear,3999,4.8,saree,silk,kanjivaram,women,festive
-P017,Puja Thali Set,Hindu,Religious,599,4.7,puja,thali,religious,set,unisex
-P018,Diwali Diya Set of 12,Hindu,Home Decor,399,4.6,diwali,diya,decor,festive,home
-P019,Men's Dhoti Kurta,Hindu,Ethnic Wear,1199,4.5,dhoti,kurta,men,ethnic,festive
-P020,Rudraksha Mala,Hindu,Religious,799,4.8,rudraksha,mala,religious,unisex
-P021,Haldi Kumkum Set,Hindu,Religious,199,4.5,haldi,kumkum,religious,pooja,unisex
-P022,Lehenga Choli Festive,Hindu,Ethnic Wear,2999,4.7,lehenga,choli,festive,women,ethnic
-P023,Agarbatti Premium Pack,Hindu,Religious,299,4.6,agarbatti,incense,religious,home,unisex
-P024,Navratri Chaniya Choli,Hindu,Ethnic Wear,2499,4.6,chaniya,choli,navratri,festive,women
-P025,Copper Pooja Kalash,Hindu,Religious,499,4.7,kalash,copper,pooja,religious,unisex
-P026,Sandalwood Paste,Hindu,Beauty,349,4.5,sandalwood,paste,beauty,natural,unisex
-P027,Anarkali Suit Printed,Hindu,Ethnic Wear,1799,4.4,anarkali,suit,printed,women,ethnic
-P028,Brass Ganesha Idol,Hindu,Religious,999,4.8,ganesha,idol,brass,religious,home
-P029,Maggam Work Blouse,Hindu,Ethnic Wear,1299,4.6,blouse,maggam,embroidered,women,ethnic
-P030,Diwali Sweet Hamper,Hindu,Gifting,1299,4.7,diwali,sweet,hamper,festive,gift
-P031,Christian Cross Pendant,Christian,Accessories,699,4.6,cross,pendant,religious,jewellery,unisex
-P032,Bible King James Version,Christian,Religious,599,4.8,bible,religious,book,unisex
-P033,Christmas Tree 4ft,Christian,Home Decor,1999,4.5,christmas,tree,decor,festive,home
-P034,Women's Floral Midi Dress,Christian,Western Wear,1499,4.5,dress,midi,floral,women,western
-P035,Christmas Gift Hamper,Christian,Gifting,1799,4.7,christmas,gift,hamper,festive,unisex
-P036,Rosary Beads Silver,Christian,Religious,399,4.7,rosary,beads,silver,religious,unisex
-P037,Men's Formal Blazer,Christian,Western Wear,2499,4.4,blazer,formal,men,western
-P038,Nativity Scene Set,Christian,Home Decor,1299,4.6,nativity,christmas,decor,festive,home
-P039,Women's Church Headscarf,Christian,Accessories,299,4.5,headscarf,church,women,accessories
-P040,Easter Basket Set,Christian,Gifting,999,4.5,easter,basket,gift,festive,unisex
-P041,Punjabi Phulkari Dupatta,Sikh,Accessories,899,4.7,phulkari,dupatta,punjabi,women,ethnic
-P042,Kara Steel Kada,Sikh,Religious,599,4.8,kara,kada,steel,religious,unisex
-P043,Patiala Salwar Suit,Sikh,Ethnic Wear,1599,4.6,patiala,salwar,suit,women,ethnic
-P044,Turban Fabric Premium,Sikh,Accessories,799,4.7,turban,fabric,men,sikh,religious
-P045,Gurpurab Gift Set,Sikh,Gifting,1299,4.7,gurpurab,gift,festive,sikh,unisex
-P046,Men's Sherwani Sikh,Sikh,Ethnic Wear,3499,4.5,sherwani,men,ethnic,festive,sikh
-P047,Khanda Pendant Gold,Sikh,Accessories,1199,4.8,khanda,pendant,gold,religious,sikh
-P048,Punjabi Jutti Handmade,Sikh,Footwear,999,4.6,jutti,footwear,handmade,punjabi,ethnic
-P049,Baisakhi Celebration Set,Sikh,Gifting,1499,4.6,baisakhi,gift,festive,sikh,unisex
-P050,Sikh Prayer Book Nitnem,Sikh,Religious,399,4.9,nitnem,prayer,book,religious,sikh
-P051,Buddhist Singing Bowl,Buddhist,Religious,1299,4.8,singing,bowl,meditation,religious,unisex
-P052,Meditation Cushion Set,Buddhist,Wellness,1599,4.7,meditation,cushion,wellness,unisex
-P053,Buddha Statue Brass,Buddhist,Home Decor,1999,4.8,buddha,statue,brass,decor,home
-P054,Tibetan Prayer Flags,Buddhist,Religious,399,4.6,prayer,flags,tibetan,religious,unisex
-P055,Buddhist Mala Beads,Buddhist,Religious,499,4.7,mala,beads,meditation,religious,unisex
+P001,Embroidered Abaya,Muslim,Ethnic,1299,4.7,abaya modest black
+P002,Chiffon Hijab,Muslim,Accessories,399,4.5,hijab chiffon women
+P003,Tasbeeh Beads,Muslim,Religious,299,4.8,prayer beads tasbeeh
+P004,Halal Oud Perfume,Muslim,Beauty,899,4.6,perfume oud halal
+P005,Modest Maxi Dress,Muslim,Ethnic,1499,4.4,modest dress women
+P006,Silk Saree,Hindu,Ethnic,2499,4.8,saree silk festive
+P007,Designer Kurta,Hindu,Ethnic,1599,4.6,kurta ethnic men
+P008,Puja Thali Set,Hindu,Religious,799,4.7,puja festival thali
+P009,Lehenga Choli,Hindu,Ethnic,2999,4.9,lehenga wedding festive
+P010,Diwali Lights,Hindu,Decor,499,4.5,lights festival decor
+P011,Turban Cloth,Sikh,Accessories,899,4.5,turban traditional
+P012,Kara Bracelet,Sikh,Accessories,699,4.6,kara steel religious
+P013,Pathani Suit,Sikh,Ethnic,1799,4.7,pathani traditional wear
+P014,Gurpurab Decor,Sikh,Decor,599,4.4,festival decor sikh
+P015,Khanda Pendant,Sikh,Accessories,499,4.5,khanda jewelry
+P016,Buddha Statue,Buddhist,Decor,1299,4.6,buddha decor statue
+P017,Meditation Robe,Buddhist,Clothing,999,4.5,robe meditation
+P018,Prayer Wheel,Buddhist,Religious,899,4.7,prayer wheel tibetan
+P019,Incense Sticks,Buddhist,Religious,299,4.4,incense meditation
+P020,Mala Beads,Buddhist,Accessories,399,4.6,mala beads prayer
+P021,Western Dress,General,Clothing,1499,4.3,casual dress women
+P022,T-Shirt Casual,General,Clothing,699,4.2,tshirt casual men
+P023,Jeans Denim,General,Clothing,1299,4.4,jeans denim
+P024,Sneakers,General,Footwear,1999,4.6,shoes sneakers
+P025,Backpack,General,Accessories,999,4.5,bag travel
+P026,Abaya Premium,Muslim,Ethnic,1999,4.8,abaya luxury
+P027,Hijab Cotton,Muslim,Accessories,299,4.3,hijab cotton
+P028,Prayer Mat,Muslim,Religious,799,4.7,prayer mat islam
+P029,Halal Skincare,Muslim,Beauty,1299,4.6,skincare halal
+P030,Modest Tunic,Muslim,Clothing,1199,4.4,tunic modest
+P031,Kurta Pajama,Hindu,Ethnic,1399,4.5,kurta pajama
+P032,Temple Decor,Hindu,Decor,899,4.6,temple decoration
+P033,Ethnic Dupatta,Hindu,Accessories,499,4.3,dupatta ethnic
+P034,Bridal Saree,Hindu,Ethnic,3999,4.9,bridal saree
+P035,Incense Set,Hindu,Religious,299,4.4,incense puja
+P036,Turban Premium,Sikh,Accessories,1299,4.7,turban premium
+P037,Kurta Sikh,Sikh,Ethnic,1599,4.6,kurta traditional
+P038,Sikh Bracelet,Sikh,Accessories,799,4.5,bracelet kara
+P039,Religious Book,Sikh,Religious,599,4.4,book gurbani
+P040,Decor Sikh,Sikh,Decor,699,4.3,decor religious
+P041,Meditation Cushion,Buddhist,Accessories,999,4.6,cushion meditation
+P042,Buddhist Art,Buddhist,Decor,1499,4.7,art spiritual
+P043,Incense Premium,Buddhist,Religious,399,4.5,incense premium
+P044,Mala Premium,Buddhist,Accessories,699,4.6,mala beads
+P045,Zen Garden,Buddhist,Decor,1999,4.8,zen garden
+P046,Formal Shirt,General,Clothing,999,4.3,formal shirt
+P047,Office Bag,General,Accessories,1499,4.5,office bag
+P048,Running Shoes,General,Footwear,2499,4.7,shoes running
+P049,Summer Dress,General,Clothing,1299,4.4,dress summer
+P050,Cap Casual,General,Accessories,399,4.2,cap casual
