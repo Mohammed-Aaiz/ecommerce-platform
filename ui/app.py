@@ -1,11 +1,15 @@
 import streamlit as st
 from PIL import Image
 import os
+import sys
+
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 # import your backend
 from src.tryon.tryon import try_on
 
-st.set_page_config(page_title="Virtual Try-On", layout="centered")
+st.set_page_config(page_title="Virtual Try-On", layout="wide")
 
 st.title("🧥 Virtual Try-On")
 
